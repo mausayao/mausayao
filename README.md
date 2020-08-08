@@ -1,3 +1,6 @@
+![Header](https://raw.githubusercontent.com/mausayao/mausayao/master/hello-world.jpg "Header")
+
+
 # 👋 Hey!
 Meu nome é Maurício e sou desenvolvedor de software. Sou do Brasil e vivo em Manaus/AM. Você pode me encontrar no [![LinkedIn][1.2]][1].
 

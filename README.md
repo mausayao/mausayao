@@ -27,7 +27,7 @@ Meu nome é Maurício e sou desenvolvedor de software. Sou do Brasil e vivo em M
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mausayao/mausayao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mausayao&hide=html,css,c,javascrip,Dockerfile,ruby,Shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="207" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mausayao&hide=html,css,c,javascrip,Dockerfile,ruby,Shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/mausayao/mausayao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mausayao&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maurício GitHub Stats" />

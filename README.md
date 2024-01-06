@@ -2,12 +2,7 @@
 
 
 # 👋 Hey!
-Meu nome é Maurício e sou desenvolvedor de software. Sou do Brasil e vivo em Manaus/AM. Você pode me encontrar no [![LinkedIn][1.2]][1].
-
-<!-- Icons -->
-[1.2]: https://github.com/mausayao/mausayao/blob/master/linkedin-3-16.png (LinkedIn icon without padding)
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/mauricio-sayao/
+Meu nome é Maurício e sou desenvolvedor de software. Sou do Brasil e vivo em Manaus/AM.
 
 
 ## 🔧 Tecnologias & Ferramentas
